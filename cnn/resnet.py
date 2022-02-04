@@ -1,3 +1,5 @@
+# modified codes from github repository https://github.com/calmisential/Basic_CNNs_TensorFlow2
+
 import tensorflow as tf
 from configuration import NUM_CLASSES
 from models.residual_block import make_basic_block_layer, make_bottleneck_layer
