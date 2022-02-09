@@ -8,4 +8,4 @@ For the ResNet models, we used TensorFlow and Keras 2.7.
 
 For the testing part, we used TF 2.0 and Keras 2.2.4 for all models. 
 
-Ask the authors for a copy of the raw dataset.
+Ask the authors for a copy of the project manuscript and raw datasets.
