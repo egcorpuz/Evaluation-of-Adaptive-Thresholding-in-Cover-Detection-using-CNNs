@@ -1,4 +1,4 @@
-# Evaluation-of-Adaptive-Thresholding-in-Cover-Detection-using-CNNs
+# Evaluation of Adaptive Thresholding in Detecting Cover Pairs using Song-to-Song Cross-Similarity Matrix with Convolutional Neural Networks
 An undergraduate student project by Christian Craig and Gian Corpuz
 
 For the Preprocessing stage, we used Linux terminal with installed Eseentia library and Python and Go packages.
